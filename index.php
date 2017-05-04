@@ -3,6 +3,6 @@
   <title>Openshift Rocks!</title>
  </head>
  <body>
- <?php echo '<p>Openshift Demo Webhoo.Prety cool, huh?/p>'; ?> 
+ <?php echo '<p>Openshift Demo Webhoo.Prety cool, huh?'; ?> 
  </body>
 </html>
